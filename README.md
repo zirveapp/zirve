@@ -4,9 +4,9 @@
 <h1>Zirve</h1>
 <b>Unleash your true potential.
 </b></br></br>
-<h4>Hi, we are Bilgiplus!</br>
-   Bilgiplus is a platform that aims to provide users</br>
-   with a daily dose of knowledge. With bilgiplus,</br>
+<h4>Hi, we are Zirve Team!</br>
+   Zirve is a platform that aims to provide users</br>
+   with a daily dose of knowledge. With Zirve,</br>
    users can discover fascinating facts, learn new skills,<br>
   and expand their knowledge base effortlessly.
 </h4>
