@@ -1,8 +1,8 @@
 <div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/165701832?s=200&v=4" alt="retto" width="200" height="200" />
-<h1>Bilgiplus (Bilgi+)</h1>
-<b>Learn Something New Every Day
+<h1>Zirve</h1>
+<b>Unleash your true potential.
 </b></br></br>
 <h4>Hi, we are Bilgiplus!</br>
    Bilgiplus is a platform that aims to provide users</br>
